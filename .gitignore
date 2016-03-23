@@ -1,0 +1,25 @@
+# Properties Files 
+
+/nbproject/genfiles.properties
+/nbproject/project.properties
+/nbproject/private/private.properties
+
+#window images file caches
+
+/build/web/cimg/Thumbs.db
+/build/web/images/Thumbs.db
+
+#JS Files for Caption USE
+/build/web/jcap.js
+/build/web/jcap1.js
+/build/web/md5.js
+/build/web/index.jsp
+
+#Library files
+/build/web/WEB-INF/lib/jsp-api.jar
+/build/web/WEB-INF/lib/ojdbc14.jar
+/build/web/META-INF/context.xml
+
+
+/nbproject/private/private.xml
+/src/conf/MANIFEST.MF
